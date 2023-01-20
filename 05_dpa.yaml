@@ -18,7 +18,7 @@ spec:
           name: cloud-credentials
         default: true
         objectStorage:
-          bucket: 'oadp-store'
+          bucket: 'vigs-bucket'
           prefix: velero
         provider: aws
   configuration:
